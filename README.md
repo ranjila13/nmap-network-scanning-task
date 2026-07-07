@@ -1,4 +1,6 @@
-task1
+#task1
+
+
 1)Objective:-
              Perform a network scan to identify open ports and running services on a local machine using Nmap, and document the findings with a security analysis of each discovered service.
 
@@ -46,6 +48,7 @@ Attackers use the exact same technique as a first step before attempting an intr
 Network scanning should only ever be performed on systems you own or have explicit, documented permission to test. Scanning devices, networks, or servers that you do not own or have not been authorized to test - even "just to see what happens" - can be illegal in most jurisdictions and can be treated the same as a real attack, regardless of intent.
 
 For this reason:
+  
   -All scans in this task were performed exclusively against a personal Kali Linux VM, which is fully owned and controlled by the person completing this exercise.
   -No external, third-party, or production systems were scanned at any point.
   -This project is for educational purposes only, intended to build foundational understanding of how network reconnaissance tools work.
